@@ -13,5 +13,14 @@
     "start": "npm install && node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakuuuuuu/CodingChallenge1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kakuuuuuu/CodingChallenge1/issues"
+  },
+  "homepage": "https://github.com/kakuuuuuu/CodingChallenge1#readme"
 }
